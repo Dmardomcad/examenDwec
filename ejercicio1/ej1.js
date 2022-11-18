@@ -35,23 +35,7 @@ const Jugador = {
     }
 }
 
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
-console.log(Jugador);
-console.log(Jugador.ganarPuntuacion());
-console.log(Jugador);
+console.log(jugadores.push(Jugador))
+console.log(jugadores);
 console.log(Jugador.ganarPuntuacion());
 console.log(Jugador);

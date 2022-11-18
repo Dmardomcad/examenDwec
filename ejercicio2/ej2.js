@@ -17,7 +17,7 @@ function isLeapYear(n,m){
         console.log(`Entrada no válida, ${n} o ${m} es mayor que 2500`);
     }
     else if (n >= 2001 && n <=2500){
-     
+        let cantidadBisiestos 
     }
 
 
